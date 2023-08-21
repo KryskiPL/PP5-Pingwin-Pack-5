@@ -14,7 +14,8 @@
 
 # Pobieranie
 
-- **[release](https://github.com/KryskiPL/PP5-Pingwin-Pack-5/releases)**
+- **[Mody do pobrania](https://github.com/KryskiPL/PP5-Pingwin-Pack-5.0-half/releases/tag/PP5)**
+- **[ResourcePacks](https://github.com/KryskiPL/PP5-Pingwin-Pack-5.0-half/releases/tag/PP5-resourcepacks)**
 - **[Forge z oficialnej strony](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.6.4.html)**
 
 # FAQ
