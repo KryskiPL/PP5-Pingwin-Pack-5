@@ -1,4 +1,4 @@
-# PP5-Pingwin-Pack-5
+# PP5-Pingwin-Pack-5.0-half
 - **PP5 Pingwin Pack 5** jest nie komplety ma tylko **44 mody** (2 zdjęcie) a oryginalna (3 zdjęcie) jest **61 modów** załadowanych.
 - Instalator działa ale po zainstalowaniu forge jest uszkodzony.
 - Są shadery ale teksturek z filmu nie ma.
