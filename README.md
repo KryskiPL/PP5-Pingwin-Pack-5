@@ -17,6 +17,11 @@
 - **[release](https://github.com/KryskiPL/PP5-Pingwin-Pack-5/releases)**
 - **[Forge z oficialnej strony](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.6.4.html)**
 
+# FAQ
+
+- Test anty Virusowy **[VirusTotal](https://www.virustotal.com/gui/file/d3831a7cc087e8bca09f6713b8962b6e848e2921fc11853070bd5193870f1cff/detection)**
+- Plik **pp5.exe** miałem od dawana na dysku
+
 # Zrzuty ekranu
 
 ![2](png/2.png)
