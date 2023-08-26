@@ -1,7 +1,7 @@
 # PP5-Pingwin-Pack-5.0
 - **PP5 Pingwin Pack 5** Paczka modów ma 44 mody.
 - Instalator działa ale po zainstalowaniu forge jest uszkodzony.
-- Są shadery i tekstóry do pobrania w linku niżej.
+- Są shadery i tekstóry do pobrania w **[Releases](https://github.com/KryskiPL/PP5-Pingwin-Pack-5.0-half/releases)** lub w linku niżej.
 
 ![1](png/1.png)
 
