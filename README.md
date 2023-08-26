@@ -21,7 +21,7 @@
 # FAQ
 
 - Test anty Virusowy **[VirusTotal](https://www.virustotal.com/gui/file/d3831a7cc087e8bca09f6713b8962b6e848e2921fc11853070bd5193870f1cff/detection)**
-- Plik **pp5.exe** miałem od dawana na dysku
+- Plik **pp5.exe** pobrałem jak jeszcze strona stuu działała.
 
 # Zrzuty ekranu
 
